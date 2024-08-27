@@ -1,0 +1,11 @@
+fiyat;kalite;marka;satildi_mi
+Düþük;Orta;A;Evet
+Orta;Yüksek;B;Hayýr
+Yüksek;Yüksek;A;Evet
+Düþük;Düþük;C;Hayýr
+Orta;Orta;A;Evet
+Yüksek;Orta;B;Hayýr
+Düþük;Orta;B;Evet
+Orta;Yüksek;C;Hayýr
+Yüksek;Yüksek;C;Evet
+Düþük;Düþük;A;Hayýr
